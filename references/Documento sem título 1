@@ -1,0 +1,31 @@
+Series Temporais
+
+Reference: https://www.youtube.com/watch?v=u-YYgigBxqo
+
+Draft
+
+Séries estacionária
+Dados coletados em intervalos de regulares de tempo;
+Deve-se ser analisado conforme a ordem (dependência com tempo)
+
+
+- Média constante
+- Variância constante
+- Auto covariância independente do tempo 
+
+Não estacionária
+- Tem tendência e sazonalidade
+Dificultam muito a análise dos dados, tendo como tarefas transformar uma série não estacionária em uma série estacionária.
+
+
+Reference: https://www.youtube.com/watch?v=0RbUk3pjSKY&t=644s
+
+Draft
+
+
+
+Estudar regressão - Auto regressão
+
+
+
+Livro - Time Series
